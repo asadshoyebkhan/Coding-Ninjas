@@ -1,9 +1,10 @@
-/*
+/*                                        V. Creating Expression1
 
                                           time limit per test1 second
                                           memory limit per test256 megabytes
                                           input standard input
                                           output standard output
+                                          
 Given two numbers N,X and an array A of N numbers. Determine if there is a way to put '+' or '-' signs between every two numbers in the array A
 in order to make an expression that is equal to X.
 
